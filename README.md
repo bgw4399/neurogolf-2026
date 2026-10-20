@@ -1,38 +1,7 @@
-# NeuroGolf 2026 Graph Surgeon Experiments
+# NeuroGolf 2026
 
-Public-safe summary of The 2026 NeuroGolf Championship experiments.
+프로젝트 설명을 **[통합 프로젝트 노트](https://github.com/bgw4399/bgw4399/blob/main/docs/projects/neurogolf-2026.md)**로 옮겼습니다.
 
-## Overview
+ONNX 그래프 분석과 점수·비용 비교 실험 노트.
 
-This project studies task-level optimization for NeuroGolf 2026 using graph/ONNX profiling, component blending, score-cost audit tables, and compact graph-surgeon style submissions.
-
-## Key Ideas
-
-- Task-level profiling instead of one global rule
-- ONNX/task asset inspection
-- Component blending with audit tables
-- Score-cost tradeoff tracking
-- Public-score resistant validation thinking
-
-## Tracked Score Progression
-
-| Stage | Score | Method |
-| --- | ---: | --- |
-| baseline | 6310.86 | trusted task-level baseline |
-| audited fusion | 6364.78 | audited solver components |
-| clean baseline | 6368.30 | audited fusion plus graph cleanup |
-| compact fusion | 6405.31 | compact solver family fusion |
-| graph surgeon | 6405.61 | compact graph surgeon |
-
-## Repository Contents
-
-Recommended public-safe contents:
-
-- `README.md`
-- selected notebooks with outputs cleared
-- `score_progression.csv`
-- `component_mix.csv`
-- `task_gain_audit.csv`
-- lightweight scripts for profiling and blending
-
-Do not upload competition data or private leaderboard artifacts if the license does not allow redistribution.
+이 저장소는 기존 링크를 위한 안내 페이지입니다. 실행 코드와 원본 데이터는 포함하지 않습니다.

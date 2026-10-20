@@ -1,6 +1,6 @@
 # NeuroGolf 2026
 
-프로젝트 설명을 **[통합 프로젝트 노트](https://github.com/bgw4399/bgw4399/blob/main/docs/projects/neurogolf-2026.md)**로 옮겼습니다.
+프로젝트 설명을 [통합 프로젝트 노트](https://github.com/bgw4399/bgw4399/blob/main/docs/projects/neurogolf-2026.md)로 옮겼습니다.
 
 ONNX 그래프 분석과 점수·비용 비교 실험 노트.
 
